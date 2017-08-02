@@ -1,0 +1,16 @@
+{
+  "name": "effects-as-data-test-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "effects-as-data": "^2.5.10",
+    "effects-as-data-universal": "^3.0.0",
+    "prettier": "^1.5.3"
+  }
+}
